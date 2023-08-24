@@ -50,7 +50,7 @@ Realiza um depósito na conta corrente. Verifica se o valor é positivo.
 
 Exibe o extrato da conta corrente, incluindo transações e saldo.
 
-### `main()`
+### `menu()`
 
 Função principal que interage com o usuário através do menu. Chama as funções correspondentes de acordo com a seleção.
 
